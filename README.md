@@ -12,6 +12,3 @@
 
   ##
      
-<div>
-  ![Snake animation](https://github.com/riqueez/riqueez/blob/output/github-contribution-grid-snake.svg)
-</div>
